@@ -1,1 +1,3 @@
-# auto-task-py
+!pip install user-agent
+#
+!pip install requests
